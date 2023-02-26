@@ -11,8 +11,8 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Online Shop</title>
-        <meta name="description" content="Online Shop" />
+        <title>Get Obie</title>
+        <meta name="description" content="Get Obie" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
