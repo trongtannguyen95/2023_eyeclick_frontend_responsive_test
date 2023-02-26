@@ -10,8 +10,8 @@ import GiftIcon from '../assets/icons/gift.svg';
 import ObieIcon from '../assets/icons/obie.svg';
 import PlayIcon from '../assets/icons/play-button.svg';
 import UniqueIcon from '../assets/icons/unique.svg';
-import DimensionIcons from '../assets/image/dimension-icons.png';
-import ShopHeroRight from '../assets/image/ShopHeroRight.png';
+import DimensionIcons from '../assets/images/dimension-icons.png';
+import ShopHeroRight from '../assets/images/ShopHeroRight.png';
 import TextBlock from "./layout/textBlock";
 import 'swiper/css';
 

@@ -4,7 +4,7 @@ import Typography from '@mui/material/Typography';
 import { Container } from '@mui/system';
 import type { NextPage } from 'next';
 import Head from 'next/head';
-import MainBannerImg from '../assets/image/main-banner-img.png';
+import MainBannerImg from '../assets/images/main-banner-img.png';
 import BrandsSwiper from '../components/brands-swiper';
 import MeetObie from '../components/meet-obie';
 const Home: NextPage = () => {

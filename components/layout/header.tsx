@@ -3,7 +3,7 @@ import Button from '@mui/material/Button';
 import Grid from '@mui/material/Grid';
 import Typography from '@mui/material/Typography';
 import { Container } from "@mui/system";
-import ObieLogo from '../../assets/image/obie-logo.png';
+import ObieLogo from '../../assets/images/obie-logo.png';
 
 export default function Header(props: any) {
     return (
