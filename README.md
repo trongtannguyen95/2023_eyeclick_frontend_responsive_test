@@ -1,10 +1,9 @@
-# 2023 EyeClick Test: Online Shop Frontend
+# 2023 EyeClick Test: Transform Figma into React Page with Responsive
 - Code Base: NextJS Typescript
 - Environment: Node 16
 
 ## Setting Up
 - Run `npm install` in command prompt
-- If you're using a diffent port or hostname than `localhost:4000` for the API you will have to change the `destination` url to match you API localhost url properties for the proxy in `next.config.js`
 - Run `npm run dev` to start the project
 ## Important Folders and Files
 - `assets`: contains the assets files like images, icons pages of the website.
